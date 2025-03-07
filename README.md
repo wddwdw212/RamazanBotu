@@ -34,14 +34,20 @@ Muzilbot, Ramazan ayı boyunca Discord sunucularınız için iftar ve sahur vaki
   - Güneş batışı efekti
   - Cami silüeti
   - Gradyan arka plan
-Kurulum
-https://collectapi.com/ sitesine kaydolun 
-accounta tıklayın ordan profile kısmına 
-
-![image](https://github.com/user-attachments/assets/d84dbe59-13c1-4eba-a959-273ebec5f7f2)
 
 
-kısmına tıkladıktan sonra api keyi kopyalayın config.json a koyun
+
+
+
+
+  Kurulum
+ https://collectapi.com/ sitesine kaydolun 
+ accounta tıklayın ordan profile kısmına 
+
+ ![image](https://github.com/user-attachments/assets/d84dbe59-13c1-4eba-a959-273ebec5f7f2)
+
+
+ kısmına tıkladıktan sonra api keyi kopyalayın config.json a koyun
 
 
 
