@@ -104,11 +104,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
 5. Pull Request oluşturun
 
-## 📞 İletişim
 
-- Discord: [Discord sunucusu linki buraya gelecek]
-- Twitter: [@MuzilBot](Twitter linki buraya gelecek)
-- E-posta: [E-posta adresi buraya gelecek]
 
 ## 🙏 Teşekkürler
 
