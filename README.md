@@ -1,7 +1,6 @@
 # 🌙 Muzilbot - Ramazan Discord Botu
 
 <div align="center">
-  <img src="assets/logo.png" alt="Muzilbot Logo" width="200"/>
   <br>
   <p>
     <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/discord.js-v14-blue.svg" alt="discord.js"></a>
@@ -24,31 +23,33 @@ Muzilbot, Ramazan ayı boyunca Discord sunucularınız için iftar ve sahur vaki
 - Tüm Türkiye illeri için destek
 
 ### 🎨 Özel Tasarlanmış Görseller
-[Görsel buraya gelecek]
 - Gece teması (Sahur bildirimleri için)
   - Yıldızlı gökyüzü efekti
   - Ay silüeti
   - Cami minareleri
 
-[Görsel buraya gelecek]
+![image](https://github.com/user-attachments/assets/36801e29-e3f6-4f7b-9140-6f663d690359)
+
 - Gün batımı teması (İftar bildirimleri için)
   - Güneş batışı efekti
   - Cami silüeti
   - Gradyan arka plan
+Kurulum
+https://collectapi.com/ sitesine kaydolun 
+accounta tıklayın ordan profile kısmına 
 
-## 💻 Kurulum
+![image](https://github.com/user-attachments/assets/d84dbe59-13c1-4eba-a959-273ebec5f7f2)
 
-1. Bot'u sunucunuza ekleyin:
-   ```
-   [Davet linki buraya gelecek]
-   ```
 
-2. Yönetici yetkisiyle komutları kullanın:
-   ```
-   /iftar-bildirim sehir:istanbul kanal:#ramazan everyone:true
-   ```
+kısmına tıkladıktan sonra api keyi kopyalayın config.json a koyun
 
-3. Bildirimleri almaya başlayın!
+
+
+
+
+
+
+
 
 ## 🛠️ Komutlar
 
@@ -60,15 +61,16 @@ Muzilbot, Ramazan ayı boyunca Discord sunucularınız için iftar ve sahur vaki
   - `everyone`: @everyone etiketi kullanılsın mı?
 - **Yetki:** Sadece sunucu yöneticileri kullanabilir
 
-[Komut kullanım görseli buraya gelecek]
+![image](https://github.com/user-attachments/assets/f512641f-2f4a-4f36-802b-0d243098181b)
+
 
 ## 📸 Ekran Görüntüleri
 
 ### İftar Bildirimi
-[İftar bildirimi görseli buraya gelecek]
+![image](https://github.com/user-attachments/assets/ec423708-b5b3-4e13-af6d-c7f311fe2cc4)
 
-### Sahur Bildirimi
-[Sahur bildirimi görseli buraya gelecek]
+
+
 
 ## ⚙️ Teknik Detaylar
 
