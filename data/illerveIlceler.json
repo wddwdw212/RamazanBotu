@@ -1,0 +1,152 @@
+{
+  "istanbul": {
+    "id": 539,
+    "ilceler": {
+      "kadikoy": 9541,
+      "besiktas": 9540,
+      "uskudar": 9550,
+      "fatih": 9542,
+      "beyoglu": 9539,
+      "sisli": 9548,
+      "bakirkoy": 9538,
+      "maltepe": 9543,
+      "pendik": 9546,
+      "kartal": 9544
+    }
+  },
+  "ankara": {
+    "id": 522,
+    "ilceler": {
+      "cankaya": 9206,
+      "kecioren": 9215,
+      "mamak": 9214,
+      "yenimahalle": 9229,
+      "etimesgut": 9209,
+      "sincan": 9225,
+      "altindag": 9205,
+      "pursaklar": 9220,
+      "polatli": 9219,
+      "golbasi": 9211
+    }
+  },
+  "izmir": {
+    "id": 545,
+    "ilceler": {
+      "konak": 9648,
+      "karsiyaka": 9647,
+      "bornova": 9646,
+      "buca": 9645,
+      "bayrakli": 9644,
+      "cigli": 9649,
+      "gaziemir": 9650,
+      "karabaglar": 9651,
+      "menemen": 9652,
+      "torbali": 9653
+    }
+  },
+  "bursa": {
+    "id": 526,
+    "ilceler": {
+      "osmangazi": 9359,
+      "nilufer": 9358,
+      "yildirim": 9360,
+      "gemlik": 9354,
+      "inegol": 9355,
+      "mudanya": 9357,
+      "kestel": 9356,
+      "gursu": 9353,
+      "karacabey": 9361,
+      "mustafakemalpasa": 9362
+    }
+  },
+  "antalya": {
+    "id": 523,
+    "ilceler": {
+      "muratpasa": 9238,
+      "konyaalti": 9237,
+      "kepez": 9236,
+      "alanya": 9230,
+      "manavgat": 9239,
+      "serik": 9240,
+      "kemer": 9235,
+      "aksu": 9231,
+      "dosemealti": 9234,
+      "kumluca": 9238
+    }
+  },
+  "adana": {
+    "id": 500,
+    "ilceler": {
+      "seyhan": 9146,
+      "cukurova": 9144,
+      "yuregir": 9147,
+      "saricam": 9145,
+      "karaisali": 9142,
+      "kozan": 9143,
+      "ceyhan": 9141,
+      "imamoglu": 9148,
+      "pozanti": 9149,
+      "feke": 9150
+    }
+  },
+  "konya": {
+    "id": 551,
+    "ilceler": {
+      "selcuklu": 9747,
+      "meram": 9746,
+      "karatay": 9745,
+      "eregli": 9744,
+      "aksehir": 9743,
+      "beysehir": 9748,
+      "cumra": 9749,
+      "ilgin": 9750,
+      "seydisehir": 9751,
+      "kadinhani": 9752
+    }
+  },
+  "gaziantep": {
+    "id": 534,
+    "ilceler": {
+      "sahinbey": 9470,
+      "sehitkamil": 9471,
+      "nizip": 9469,
+      "islahiye": 9468,
+      "nurdagi": 9472,
+      "araban": 9467,
+      "oguzeli": 9473,
+      "yavuzeli": 9474,
+      "karkamis": 9475,
+      "kilis": 9476
+    }
+  },
+  "samsun": {
+    "id": 580,
+    "ilceler": {
+      "ilkadim": 10164,
+      "atakum": 10163,
+      "canik": 10165,
+      "bafra": 10166,
+      "carsamba": 10167,
+      "terme": 10168,
+      "vezirkopru": 10169,
+      "havza": 10170,
+      "tekkeköy": 10171,
+      "19mayis": 10172
+    }
+  },
+  "kayseri": {
+    "id": 548,
+    "ilceler": {
+      "melikgazi": 9700,
+      "kocasinan": 9699,
+      "talas": 9701,
+      "develi": 9698,
+      "yahyali": 9702,
+      "bunyan": 9697,
+      "tomarza": 9703,
+      "yesilhisar": 9704,
+      "pinarbasi": 9705,
+      "sariz": 9706
+    }
+  }
+}
